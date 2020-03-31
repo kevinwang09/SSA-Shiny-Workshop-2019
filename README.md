@@ -1,2 +1,1 @@
-# SSA-Shiny-Workshop-2019
-SSA-Shiny-Workshop-2019`
+This repo was forked from https://github.com/jrwishart/SSA-Shiny-Workshop-2019. The sole purpose is to deploy the html slides through GitHub Pages from my repo. All rights belong to the original author, jrwishart. 
